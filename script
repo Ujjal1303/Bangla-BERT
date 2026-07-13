@@ -1,3 +1,0 @@
-mkdir -p
-/home/claude/banglabert_project/{data, checkpoints, logs, outputs} &&
-echo "Directories created"
